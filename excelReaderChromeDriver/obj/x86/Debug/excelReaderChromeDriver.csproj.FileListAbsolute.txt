@@ -1,0 +1,6 @@
+/Users/danielhayes/projects/excelReaderChromeDriver/excelReaderChromeDriver/bin/Debug/excelReaderChromeDriver.exe
+/Users/danielhayes/projects/excelReaderChromeDriver/excelReaderChromeDriver/bin/Debug/excelReaderChromeDriver.pdb
+/Users/danielhayes/projects/excelReaderChromeDriver/excelReaderChromeDriver/obj/x86/Debug/excelReaderChromeDriver.csprojAssemblyReference.cache
+/Users/danielhayes/projects/excelReaderChromeDriver/excelReaderChromeDriver/obj/x86/Debug/excelReaderChromeDriver.csproj.CoreCompileInputs.cache
+/Users/danielhayes/projects/excelReaderChromeDriver/excelReaderChromeDriver/obj/x86/Debug/excelReaderChromeDriver.exe
+/Users/danielhayes/projects/excelReaderChromeDriver/excelReaderChromeDriver/obj/x86/Debug/excelReaderChromeDriver.pdb
